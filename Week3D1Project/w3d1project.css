@@ -1,0 +1,87 @@
+.navigation {
+    color: white;
+    display: block;
+    top: 0px;
+    position: relative;
+    background-color: rgb(175, 160, 23);
+    height: 40px;
+    margin-bottom: 50px;
+}
+.navigation p {
+    margin: 7px 0 0 5px;
+    top: -10px;
+    font-size: 20px;
+    float: left;
+}
+.navigation a {
+    margin: -7px 0 0 5px;
+    color: white;
+    float: right;
+    padding: 0 10px;
+}
+ul {
+    list-style-type: none;
+    display: inline;
+}
+body {
+    background-color: rgb(255, 253, 223);
+}
+.Dashboard {
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    width: 250px;
+    height: 400px;
+    border: solid rgb(175, 160, 23) 2px;
+    float: left;
+}
+.Budget {
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    width: 250px;
+    height: 400px;
+    border: solid rgb(175, 160, 23) 2px;
+    float: left;
+}
+.Checkbooks {
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    width: 250px;
+    height: 400px;
+    border: solid rgb(175, 160, 23) 2px;
+    float: left;
+}
+.Money {
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    width: 250px;
+    height: 400px;
+    border: solid rgb(175, 160, 23) 2px;
+    float: left;
+}
+h2 {
+    text-align: left;
+}
+.Dashboard-Info {
+    width: 240px;
+    background-color: rgb(175, 160, 23);
+    text-align: center;
+}
+.Budget-Info {
+    width: 240px;
+    background-color: rgb(175, 160, 23);
+    text-align: center;
+}
+.Checkbooks-Info {
+    width: 240px;
+    background-color: rgb(175, 160, 23);
+    text-align: center;
+}
+.Money-Info {
+    width: 240px;
+    background-color: rgb(175, 160, 23);
+    text-align: center;
+}
